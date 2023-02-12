@@ -1,5 +1,1 @@
-napis z feature 3 w pliku 1
-napis z feature 4 w pliku 1
-
-
-i
+zmiana jakas w pliku pierwszym feature 5
